@@ -14,8 +14,9 @@ set -e
 ##################################################################################################################
 
 #sudo pacman-key --keyserver hkp://pool.sks-keyservers.net:80 -r 74F5DE85A506BF64
-sudo pacman-key --keyserver hkps://hkps.pool.sks-keyservers.net:443 -r 74F5DE85A506BF64
-sudo pacman-key --lsign-key 74F5DE85A506BF64
+#sudo pacman-key --keyserver https://pgp.mit.edu -r E3CA74FEF52B4D3D
+sudo pacman-key --keyserver hkps://hkps.pool.sks-keyservers.net:443 -r E3CA74FEF52B4D3D
+sudo pacman-key --lsign-key E3CA74FEF52B4D3D
 
 echo "################################################################"
 echo "###                   key trusted                           ####"
