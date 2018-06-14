@@ -1,8 +1,14 @@
+# bich0azul ArcoLinuxD Awesome WM
+
+This is my personal configuration of arco-awesome: https://github.com/arcolinuxd/arco-awesome
+
+All credits to Erik Dubois for the arcolinux proyect: https://arcolinux.info
+
 # ArcoLinuxD Awesome WM
 
 All credits to Nick Petrov for making this configuration.
 
-Do you want to contribute and share your knowledge, contact us.
+Do you want to contribute and share your knowledge, contact with arcolinux team.
 
 # Start by installing the latest ArcoLinuxD installation
 
