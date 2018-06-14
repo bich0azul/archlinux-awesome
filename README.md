@@ -2,7 +2,7 @@
 
 This is my personal configuration of arco-awesome: https://github.com/arcolinuxd/arco-awesome
 
-All credits to Erik Dubois for the arcolinux proyect: https://arcolinux.info
+All credits to Erik Dubois for the ArcoLinux proyect: https://arcolinux.info
 
 # ArcoLinuxD Awesome WM
 
